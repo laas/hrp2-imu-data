@@ -1,0 +1,9 @@
+liste des colonnes:
+
+seq   id strictement croissant
+secs  secondes
+nsecs nano secondes
+attitude en tant que quaternion (x,y,z,w)
+attitude en tant que roll pitch yaw (roll, pitch, yaw)
+vitesse angulaire (x,y,z)
+acceleration (x,y,z)
